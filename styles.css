@@ -117,3 +117,9 @@ p{
 .ty-state p{
     color: var(--medium-grey);
 }
+
+
+.attribution{
+    color: var(--white);
+    padding: 20px;
+}
